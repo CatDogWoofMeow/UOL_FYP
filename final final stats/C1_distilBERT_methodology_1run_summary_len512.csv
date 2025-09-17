@@ -1,0 +1,2 @@
+run,max_len,lr,train_loss,val_loss,val_acc,macro_f1,recall_Design_Science_/_System_Design,recall_Mixed_Methods,recall_Qualitative,recall_Theoretical_/_Conceptual
+distilbert_base_len512,512,2e-05,0.41541807737370084,0.6751992766853488,0.8290062667860341,0.5620728581394683,0.8788321167883212,0.5638297872340425,0.0,0.846875

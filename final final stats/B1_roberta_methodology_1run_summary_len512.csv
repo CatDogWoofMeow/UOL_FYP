@@ -1,0 +1,2 @@
+run,max_len,lr,train_loss,val_loss,val_acc,macro_f1,recall_Design_Science_/_System_Design,recall_Mixed_Methods,recall_Qualitative,recall_Theoretical_/_Conceptual
+roberta_base_methodology_1run_len512,512,2e-05,0.6600698916176493,0.7511272677486497,0.8057296329453895,0.5315232974910394,0.8963503649635036,0.4787234042553192,0.0,0.753125

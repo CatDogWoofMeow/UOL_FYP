@@ -1,0 +1,2 @@
+run,val_acc,macro_f1,recall_Design_Science_/_System_Design,recall_Mixed_Methods,recall_Qualitative,recall_Theoretical_/_Conceptual
+TFIDF_kfold,0.758689,0.381373,0.931408,0.017778,0.0,0.591063
